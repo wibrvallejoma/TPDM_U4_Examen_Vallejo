@@ -24,10 +24,10 @@ Existen 4 niveles de Guapura:
 *Nota: El juego es un juego serio. Trata de que la persona se de cuenta de qué tiene que tener la mayor parte del tiempo los dientes limpios. No trata de ganar o perder, sino de mantener una higiene bucal adecuada.*
 
 ## Imagenes
-![Alt text](relative/path/to/img.jpg?raw=true "Imagen 1")
+![Alt text](https://github.com/wibrvallejoma/TPDM_U4_Examen_Vallejo/blob/master/Imagenes%20ejemplo/Screenshot_20190522-195414.png?raw=true "Imagen 1")
 
-![Alt text](relative/path/to/img.jpg?raw=true "Imagen 2")
+![Alt text](https://github.com/wibrvallejoma/TPDM_U4_Examen_Vallejo/blob/master/Imagenes%20ejemplo/Screenshot_20190522-195426.png?raw=true "Imagen 2")
 
-![Alt text](relative/path/to/img.jpg?raw=true "Imagen 3")
+![Alt text](https://github.com/wibrvallejoma/TPDM_U4_Examen_Vallejo/blob/master/Imagenes%20ejemplo/Screenshot_20190522-195447.png?raw=true "Imagen 3")
 
-![Alt text](relative/path/to/img.jpg?raw=true "Imagen 4")
+![Alt text](https://github.com/wibrvallejoma/TPDM_U4_Examen_Vallejo/blob/master/Imagenes%20ejemplo/Screenshot_20190522-195526.png?raw=true "Imagen 4")
